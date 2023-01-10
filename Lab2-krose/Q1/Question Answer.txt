@@ -1,0 +1,2 @@
+No. The frame rate is not affected by the added attributes. As described earlier in the chapter, objects are not sped up or slowed down from frame rate changes.
+Time based motion is entirely based on time. The frame rate will update on the value given to it. 

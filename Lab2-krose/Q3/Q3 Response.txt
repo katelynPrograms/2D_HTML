@@ -1,0 +1,3 @@
+The new background image does not fit the canvas. Because of this, the animation we have set to make the background continuously move, thus making the player progress forward,
+is very much visible and doesn't give the player our desired experience. The discontinuity is obvious as the animation progresses. In order to make this image work, we'd 
+either have to scale the image up, or scale the canvas, runner, and platforms down to fit. 

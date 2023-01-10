@@ -1,0 +1,3 @@
+The frame rate did not slow down for me. There are a lot of factors that could be the cause of this I suppose. My GPU, my RAM, my monitor even? I'm not sure if functionally,
+the coding down in the project had anything to do with it. I opened 12 tabs across 2 monitors, with other applications running as well, and hardware acceleration enabled 
+on Google Chrome. I imagine because of the low performance of the game, Google Chrome doesn't need to allocate resources to make the tab function, thus no effect. 

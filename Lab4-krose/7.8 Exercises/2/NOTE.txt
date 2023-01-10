@@ -1,0 +1,3 @@
+The CSS isn't working properly. Not sure what's causing it. I edited the code in snailbait7-2.js 
+to the correct code for the question. I'm using the source code by chapter, so not sure if I missed
+a pathway correction somwhere. 

@@ -1,0 +1,5 @@
+Once again, the CSS isn't working. I went into CSS, HTML, and JS and edited a lot of things. I
+thought the edits would fix it but nothing changed. As for the question, I did not get to observe
+the cycle changes. I assume there would be little to none negative consequences for using flyweight.
+The use of flyweight in programming is to reduce memory usage and have object oriented programming
+be more flexible in using and testing. 

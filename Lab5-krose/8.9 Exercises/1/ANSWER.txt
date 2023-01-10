@@ -1,0 +1,2 @@
+When paused while jumping, the runner starts off immediately from where they left off. When the
+functions are commented out the runner resets position to the beginning. 

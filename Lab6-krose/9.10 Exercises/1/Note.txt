@@ -1,0 +1,3 @@
+The player disappears from the screen when code is commmented out. As the book says, this.easing is
+used for the animation timer. The timer seems as if it isn't called. The timer doesn't stop the
+animation as it should.

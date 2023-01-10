@@ -1,0 +1,2 @@
+When the line is commented out, the player lurches forward. I think this is because when pause is activated, the frames are the only pause. The game
+is still running all other lines of code, therefore the platforms are still moving. This could be wrongly worded, but this is what I got from the pause function. 

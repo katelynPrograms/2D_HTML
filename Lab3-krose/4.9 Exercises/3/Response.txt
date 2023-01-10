@@ -1,0 +1,3 @@
+Changing from "this" to "self" did not make the function work corrrectly. I think it's because "this" isn't changing reference, so therefore "self" does not need to be called.
+The book says "self" is called to assign it to a changed "this" reference, but this initializeImages function is still using the previous reference. Changing it to "snailBait"
+caused the same to happen. 

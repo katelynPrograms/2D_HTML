@@ -1,0 +1,2 @@
+I went into the JavaScript and did a "find and replace" task. I replaced "this." with "snailBait." in each find. When I go to run the code, the window is displayed. However,
+snailbait the game is not. The code already understands where to pull from when using "this." and when using "snailBait." it gets the parameters from one place. 

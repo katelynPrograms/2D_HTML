@@ -1,0 +1,4 @@
+The loading gif is no longer displayed when canvas, chrome, and toast are changed to block. This because they are being displayed first, on top of other layers, and therefore
+they are not allowing the gif to be shown. The bottom display bar with the controls are blocked, so the player doesn't know how to move. 
+
+SIDE NOTE: I do hope we fix the keyboard inputs in a later exercise.
